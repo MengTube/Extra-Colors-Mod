@@ -21,12 +21,6 @@ An Among Us mod that adds extra colors into the game
 - Midnight Blue
 - Rainbow
 
-# Credits
-[BepInEx](https://github.com/NuclearPowered/BepInEx)\
-[Reactor](https://github.com/NuclearPowered/Reactor) - Modding framework I used to create this mod\
-[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Updated [Reactor](https://github.com/NuclearPowered/Reactor), the modding framework I used to create this mod\
-[Rainbow](https://github.com/MoltenMods/Rainbow) - Inspiration for this mod
-
 # Releases and Compatibility
 <table style="width:100%">
   <tr>
@@ -41,3 +35,9 @@ An Among Us mod that adds extra colors into the game
    </tr>
  <tr>
 </table>
+
+# Credits
+[BepInEx](https://github.com/NuclearPowered/BepInEx)\
+[Reactor](https://github.com/NuclearPowered/Reactor) - Modding framework I used to create this mod\
+[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Updated [Reactor](https://github.com/NuclearPowered/Reactor), the modding framework I used to create this mod\
+[Rainbow](https://github.com/MoltenMods/Rainbow) - Inspiration for this mod
