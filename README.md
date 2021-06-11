@@ -21,20 +21,23 @@ An Among Us mod that adds extra colors into the game
 - Midnight Blue
 - Rainbow
 
-![Extra Colors](/Images/Extra Colors.png)
+<img src="Images/Extra Colors.png">
 
 ## Releases & Compatibility
 
-<table style="width:100%">
+<table>
     <th>Among Us Version</th>
     <th>Mod Version</th>
     <th>Link</th>
    <tr>
     <td>v2021.5.10 - v2021.5.25.2</td>
     <td>v1.0.0</td>
-    <td><a href="">Download</></td></td>
+    <td><a href="https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.0/Extra.Colors.Mod.v1.0.0.zip">Download</></td></td>
    </tr>
 </table>
+
+## Installation
+WIP
 
 ## Credits
 [BepInEx](https://github.com/NuclearPowered/BepInEx)\
