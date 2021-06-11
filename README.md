@@ -52,7 +52,7 @@ Once the mod is sucessfully installed, you will see something like this:\
 <img src="Images/Home Menu.png">\
 <img src="Images/In-game.png">
 
-# Issues/Bugs/Suggestions
+# Issues/Bugs/Suggestions:
 If you have any issues, or if you found a bug, or if you have suggestions, regarding the Extra Colors Mod, feel free to [raise an issue](https://github.com/MengTube/Extra-Colors-Mod/issues/new) through GitHub.\
 You can also join my [Discord Server](https://discord.gg/tqR4uJTbcz) for help and support.
 
