@@ -21,6 +21,8 @@ An Among Us mod that adds extra colors into the game
 - Midnight Blue
 - Rainbow
 
+![Extra Colors](/Images/Extra Colors.png)
+
 ## Releases & Compatibility
 
 <table style="width:100%">
