@@ -1,7 +1,7 @@
 # Extra Colors Mod
 An Among Us mod that adds extra colors into the game
 
-# Extra Colors
+# Extra Colors:
 - Fortegreen
 - Coral
 - Olive
@@ -20,11 +20,9 @@ An Among Us mod that adds extra colors into the game
 - Teal
 - Midnight Blue
 - Rainbow
-
 <img src="Images/Extra Colors.png">
 
-# Releases & Compatibility
-
+# Releases & Compatibility:
 <table>
     <th>Among Us Version</th>
     <th>Mod Version</th>
@@ -36,13 +34,13 @@ An Among Us mod that adds extra colors into the game
    </tr>
 </table>
 
-# Installation
-## Requirements
+# Installation:
+## Requirements:
 - Among Us
   - Steam Version
   - Epic Games Version
   - Itch.io Version
-## Installation Guide
+## Installation Guide:
 1. [Download](https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.0/Extra.Colors.Mod.v1.0.0.zip) Extra Colors Mod.
 2. Extract the `.zip` file.
 3. Make a copy of your Among Us (Optional).
@@ -50,12 +48,16 @@ An Among Us mod that adds extra colors into the game
 5. Paste it in your Among Us directory.
 6. Launch your Among Us. It might take a while to launch.
 
-## Issues
-If you have any issues regarding the Extra Colors Mod, feel free to create a new issue thorught GitHub.\
+Once the mod is sucessfully installed, you will see something like this:\
+<img src="Images/Home Menu.png">\
+<img src="Images/In-game.png">
+
+# Issues/Bugs/Suggestions
+If you have any issues, or if you found a bug, or if you have suggestions, regarding the Extra Colors Mod, feel free to [raise an issue](https://github.com/MengTube/Extra-Colors-Mod/issues/new) through GitHub.\
 You can also join my [Discord Server](https://discord.gg/tqR4uJTbcz) for help and support.
 
-# Credits
-[BepInEx](https://github.com/NuclearPowered/BepInEx)\
-[Reactor](https://github.com/NuclearPowered/Reactor) - Modding framework I used to create this mod\
-[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Updated [Reactor](https://github.com/NuclearPowered/Reactor), the modding framework I used to create this mod\
+# Credits:
+[BepInEx](https://github.com/NuclearPowered/BepInEx) - .NET plugin framework used for creation of this mod\
+[Reactor](https://github.com/NuclearPowered/Reactor) - Modding framework used for creating this mod\
+[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Updated [Reactor](https://github.com/NuclearPowered/Reactor), the modding framework used for creating this mod\
 [Rainbow](https://github.com/MoltenMods/Rainbow) - Inspiration for this mod
