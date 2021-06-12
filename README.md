@@ -59,5 +59,5 @@ You can also join my [Discord Server](https://discord.gg/tqR4uJTbcz) for help an
 # Credits:
 [BepInEx](https://github.com/NuclearPowered/BepInEx) - .NET plugin framework used for creation of this mod\
 [Reactor](https://github.com/NuclearPowered/Reactor) - Modding framework used for creating this mod\
-[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Updated [Reactor](https://github.com/NuclearPowered/Reactor), the modding framework used for creating this mod\
+[DaemonBeast's Reactor](https://github.com/DaemonBeast/Reactor) - Reactor used for v1.0.0 of this mod as the official Reactor was not updated during creation of that release.
 [Rainbow](https://github.com/MoltenMods/Rainbow) - Inspiration for this mod
