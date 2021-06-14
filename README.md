@@ -49,7 +49,7 @@ An Among Us mod that adds extra colors into the game
 5. Paste it in your Among Us directory.
 6. Launch your Among Us. It might take a while to launch.
 
-Once the game is sucessfully launched with the mod, you will see something like this:\
+Once the game is successfully launched with the mod, you will see something like this:\
 <img src="Images/Home Menu.png">\
 <img src="Images/In-game.png">
 
