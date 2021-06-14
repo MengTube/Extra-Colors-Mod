@@ -10,7 +10,7 @@ An Among Us mod that adds extra colors into the game
 - Tan
 - Maroon
 - Banana
-- Seaform Green
+- Seafoam Green
 - Medium Purple
 - Gold
 - Gamboge
