@@ -34,7 +34,7 @@ An Among Us mod that adds extra colors into the game
    </tr>
 </table>
 
-# Installation:
+# Installation
 ## Requirements:
 - Among Us
   - Steam Version
