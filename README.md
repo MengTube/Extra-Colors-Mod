@@ -47,7 +47,7 @@ An Among Us mod that adds extra colors into the game
   - Itch.io Version
 
 ## Installation Guide:
-1. [Download](https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.0/Extra.Colors.Mod.v1.0.1.zip) Extra Colors Mod.
+1. [Download](https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.1/Extra.Colors.Mod.v1.0.1.zip) Extra Colors Mod.
 2. Extract the `.zip` file.
 3. Make a copy of your Among Us (Optional).
 4. Copy the contents inside the extracted file.
