@@ -32,6 +32,11 @@ An Among Us mod that adds extra colors into the game
     <td>v1.0.0</td>
     <td><a href="https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.0/Extra.Colors.Mod.v1.0.0.zip">Download</></td></td>
    </tr>
+   <tr>
+    <td>v2021.5.10 - v2021.5.25.2</td>
+    <td>v1.0.1</td>
+    <td><a href="https://github.com/MengTube/Extra-Colors-Mod/releases/download/v1.0.1/Extra.Colors.Mod.v1.0.1.zip">Download</></td></td>
+   </tr>
 </table>
 
 # Installation:
