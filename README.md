@@ -58,7 +58,7 @@ Once the game is successfully launched with the mod, you will see something like
 <img src="Images/Home Menu.png">\
 <img src="Images/In-game.png">
 
-## Other Places To Get This Mod
+# Other Places To Get This Mod
 This mod is also available on:
 - [AmodsUs](https://amodsus.com/resources/extra-colors-mod.165/)
 - [ModManager](https://github.com/MatuxGG/ModManager)
