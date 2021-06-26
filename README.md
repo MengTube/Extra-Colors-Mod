@@ -61,7 +61,7 @@ Once the game is successfully launched with the mod, you will see something like
 # Other Places To Get This Mod
 This mod is also available on:
 - [AmodsUs](https://amodsus.com/resources/extra-colors-mod.165/)
-- [ModManager](https://mm.matux.fr/)
+- [Mod Manager](https://mm.matux.fr/)
 
 # Issues/Bugs/Suggestions:
 If you have any issues, or if you found a bug, or if you have suggestions, regarding the Extra Colors Mod, feel free to [raise an issue](https://github.com/MengTube/Extra-Colors-Mod/issues/new) through GitHub.\
