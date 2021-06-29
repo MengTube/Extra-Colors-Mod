@@ -74,4 +74,5 @@ You can also join my [Discord Server](https://discord.gg/tqR4uJTbcz) for help an
 [Rainbow](https://github.com/MoltenMods/Rainbow) - Inspiration and code for this mod
 
 #
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+<p align="center"> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.</p>
+<p align="center">© Innersloth LLC.</p>
