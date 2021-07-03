@@ -20,7 +20,7 @@ An Among Us mod that adds extra colors into the game
 - Teal
 - Midnight Blue
 - Rainbow
-<img src="Images/Extra Colors.png">
+<img src="Images (v1.1.0)/Extra Colors.png">
 
 # Releases & Compatibility:
 <table>
@@ -59,9 +59,10 @@ An Among Us mod that adds extra colors into the game
 5. Paste it in your Among Us directory.
 6. Launch your Among Us. It might take a while to launch.
 
-Once the game is successfully launched with the mod, you will see something like this:\
-<img src="Images/Home Menu.png">\
-<img src="Images/In-game.png">
+Once the game is successfully launched with the mod, you will see these things:\
+<img src="Images (v1.1.0)/Home Menu.png">\
+<img src="Images (v1.1.0)/In-game.png">\
+<img src="Images (v1.1.0)/Mod.png">
 
 # Other Places To Get This Mod
 This mod is also available on:
