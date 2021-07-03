@@ -3,20 +3,20 @@ An Among Us mod that adds extra colors into the game
 
 # Extra Colors:
 - Fortegreen
-- Coral
 - Olive
-- Rose
-- Gray
-- Tan
-- Maroon
-- Banana
 - Seafoam Green
+- Acid Green
 - Medium Purple
 - Gold
 - Gamboge
 - Chocolate
-- Dodger Blue
+- Blurple
+- Medium Purple
 - Violet
+- Tomato
+- Crimson
+- Dodger Blue
+- Steel Blue
 - Teal
 - Midnight Blue
 - Rainbow
